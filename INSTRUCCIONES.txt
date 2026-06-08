@@ -1,0 +1,28 @@
+DASHBOARD LA CHACRA – INSTRUCCIONES
+=====================================
+
+CÓMO USAR
+----------
+1. Abrí el archivo "index.html" en cualquier navegador (Chrome, Edge, Firefox).
+2. Hacé clic en "Cargar Excel" y seleccioná el archivo "LA CHACRA.xlsm".
+3. El dashboard se actualiza automáticamente con los datos del archivo.
+
+ACTUALIZAR DATOS
+----------------
+Cada vez que tengas una versión nueva del archivo Excel:
+1. Abrí el dashboard en el navegador.
+2. Hacé clic en "Cargar Excel" y seleccioná la nueva versión del archivo.
+   No hay que recargar la página ni hacer nada más.
+
+PESTAÑAS DISPONIBLES
+--------------------
+- Avance:  Compras por mes y % de avance general del proyecto.
+- Compras: Compras vs Presupuesto por período, con tabla detallada.
+- Físico:  Módulos planificados vs reales, estado de avance y término.
+- Consumo: Productos críticos con su % de avance teórico.
+
+COMPATIBILIDAD
+--------------
+Funciona con cualquier navegador moderno (Chrome, Edge, Firefox, Safari).
+No requiere internet ni instalación de ningún programa.
+El archivo index.html y la carpeta dashboard pueden copiarse a cualquier equipo.
